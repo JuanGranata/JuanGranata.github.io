@@ -1,6 +1,3 @@
-Link de prueba a un directorio
-https://github.com/JuanGranata
-
 Primera simulacion
 
 ![Primera SImulacion](https://github.com/user-attachments/assets/855b4424-cbec-4dbc-b208-8ede80eb16a4)
