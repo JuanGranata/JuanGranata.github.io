@@ -1,7 +1,12 @@
 # JuanGranata.github.io
 6to 2da Avionica - "Proyecto Miragua v2.0"
 
+Primera simulacion
+
+![Primera SImulacion](https://github.com/user-attachments/assets/855b4424-cbec-4dbc-b208-8ede80eb16a4)
+
 Primeros pasos
+
 ![FB2A8C9F-1076-4FC5-8052-A14F30A2B30E](https://github.com/user-attachments/assets/f4c107f8-b103-4a9b-a80f-ab57085fdb17)
 
 ![E7ADD752-9956-4461-92BF-0D189AA0A8BE](https://github.com/user-attachments/assets/359b4699-f40c-46e0-a60a-fc47c993941e)
