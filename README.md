@@ -14,6 +14,6 @@
 ![Imagen 5](https://github.com/user-attachments/assets/ca643bc2-a9b9-407b-bdc9-afae3d8d02f4)
 ![Imagen 6](https://github.com/user-attachments/assets/949e1265-b7f1-4ec3-a7e3-88d1374d8736)
 
-## Ensamblado final
+## Armado final
 
-![Ensamblado final](https://github.com/user-attachments/assets/2dd0fda7-60a7-43c6-8915-73809c4886f8)
+[Armado Final](armado.md)
