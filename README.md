@@ -1,4 +1,6 @@
-## Inicio
+## Miraguua 2.0
+
+## Primera Simulacion
 
 ![Primera Simulación](https://github.com/user-attachments/assets/855b4424-cbec-4dbc-b208-8ede80eb16a4)
 
