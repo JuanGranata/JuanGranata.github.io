@@ -1,4 +1,4 @@
-## Miraguua 2.0
+## Miragua 2.0
 
 ## Primera Simulacion
 
